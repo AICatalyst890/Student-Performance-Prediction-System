@@ -107,7 +107,7 @@ Ensure **Python 3.8+** is installed on your environment.
 
 ```bash
 # Clone repository
-git clone [https://github.com/AICatalyst890/Student-Performance-Prediction-System.git](https://github.com/AICatalyst890/Student-Performance-Prediction-System.git)
+git clone https://github.com/AICatalyst890/Student-Performance-Prediction-System.git
 cd Student-Performance-Prediction-System
 
 # Create and activate virtual environment (optional but recommended)
